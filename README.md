@@ -1,3 +1,7 @@
+Laravel is amazing framework php to develop project like someone api or project with interface using livewares, but have a litle group of the juniors dev that use laravel very bad, for this, i maked this simple project to all peoples see what is DDD project, SOLID, YAGN, DRY and other patter can be used...
+
+_OBS this is very simple_
+
 # Como rodar o Projecto
 
 1- Criar o banco de dados e.g `warker-db`
@@ -8,8 +12,7 @@
 
 4- rodar o comando `php artisan migrate` para rodar as migrations e criar as tabelas no banco de dados
 
-5- rodar o comando `php artisan db:seed --class=CitySeeder` caso queira inserir alguns dados fakes no banco de dados
+5- rodar o comando `php artisan serve" para rodar a API`
 
-6- rodar o comando `php artisan serve" para rodar a API`
 
-7- Importar o ficheiro dentro do diretorio `warker-api\.insomnia\nome_do_ficheiro.json` lá no insomnia
+Developed by *Luís Afonso Caputo*
